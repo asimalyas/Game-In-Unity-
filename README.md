@@ -74,8 +74,3 @@ A complete third-person archery game built as a semester project. It includes mu
 
 ---
 
-## 🚀 Installation Instructions
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/unity-projects.git
