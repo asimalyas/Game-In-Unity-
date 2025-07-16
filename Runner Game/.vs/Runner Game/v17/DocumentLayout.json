@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|f:\\bs\\study\\6th semester\\game development\\labs\\lab tasks\\runner game\\assets\\scripts\\menu script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\assets\\scripts\\camerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\assets\\kajamansroads\\free\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|solutionrelative:assets\\kajamansroads\\free\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu Script.cs",
+              "DocumentMoniker": "F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\Assets\\Scripts\\Menu Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu Script.cs",
+              "ToolTip": "F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\Assets\\Scripts\\Menu Script.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu Script.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:26:21.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\Assets\\KajamansRoads\\Free\\ReadMe.txt",
+              "RelativeDocumentMoniker": "Assets\\KajamansRoads\\Free\\ReadMe.txt",
+              "ToolTip": "F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\Assets\\KajamansRoads\\Free\\ReadMe.txt",
+              "RelativeToolTip": "Assets\\KajamansRoads\\Free\\ReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-26T20:11:48.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraScript.cs",
+              "DocumentMoniker": "F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\Assets\\Scripts\\CameraScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraScript.cs",
+              "ToolTip": "F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\Assets\\Scripts\\CameraScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraScript.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:06:55.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScript.cs",
+              "ToolTip": "F:\\BS\\study\\6th Semester\\Game Development\\Labs\\lab tasks\\Runner Game\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScript.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:58:58.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
