@@ -1,76 +1,79 @@
-# 🎮 Unity Projects Collection
-
-This repository contains three Unity-based game projects, created for learning and academic purposes. Each project demonstrates different aspects of game development, from basic interaction to full gameplay systems.
-
----
-
-## 🟢 Project 1: Ball Touch & Score Game
-
-### 📌 Overview
-A simple physics-based game where the player controls a ball to touch target objects and score points.
-
-### ✅ Features
-- Ball movement using keyboard or input system
-- Score system based on object collisions
-- Sound feedback on touches
-- Simple and clean UI showing score
-- Lightweight and beginner-friendly
+<h1 align="center">🎮 Unity Games Collection 🚀</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-Game%20Projects-blueviolet?style=for-the-badge&logo=unity" />
+  <img src="https://img.shields.io/badge/Language-C%23-ff69b4?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
-## 🏎️ Project 2: Runner Car Game
+## 🌟 Overview
 
-### 📌 Overview
-An endless runner-style game where the player drives a car, collecting points and avoiding obstacles.
+Welcome to a **collection of 3 Unity mini-games** 🎯 developed with love, code, and creativity!
 
-### ✅ Features
-- Car movement on a track using new input system
-- Dynamic environment with item pickups
-- Point collection system
-- Obstacle avoidance mechanics
-- Score UI and sound effects
-- Fun and replayable gameplay
+Each project focuses on **different mechanics**, **design styles**, and **gameplay themes** — from **simple ball games** to a **fully animated third-person archery adventure**.
 
 ---
 
-## 🏹 Project 3: Archery Game – Semester Project
+## 🎲 Projects Preview
 
-### 📌 Overview
-A complete third-person archery game built as a semester project. It includes multiple scenes, polished gameplay, animations, sound effects, and user interface elements.
+### 🟢 1. **Ball Touch & Score**
 
-### ✅ Features
+> **"Bounce, Touch & Score!"**
 
-#### 🎮 Gameplay
-- Third-person character controller
-- Bow and arrow shooting mechanics
-- Targets and scoring system
-- Health or timer system (optional)
+🧩 A physics-based game where you control a bouncing ball and score points by touching targets.
 
-#### 🌍 Environments
-- **Menu Scene** – Start and quit the game
-- **Forest Scene** – Nature-based environment
-- **Snow/Sledge Scene** – Winter-themed level with sliding elements
-
-#### 🧍‍♂️ Character
-- Fully rigged and animated player model
-- Walking, running, aiming, shooting animations
-- Smooth blend between animations
-
-#### 🔊 Audio
-- Background music for each scene
-- Sound effects for walking, shooting, hitting targets, and UI clicks
-
-#### 🧠 Systems
-- Object pooling for arrows
-- Raycasting for aiming
-- Score and stats tracking
-- Win/lose conditions
-
-#### 🖥️ User Interface
-- Main menu with start/exit buttons
-- Score, timer, and health displays
-- Pause and game-over menus
-- Visual feedback (hit markers, target effects)
+- ⚽ Realistic ball physics
+- ✨ Simple, glowing UI
+- 🎯 Score on object contact
+- 🔊 SFX feedback on hits
+- 🧠 Perfect for beginners!
 
 ---
 
+### 🏎️ 2. **Runner Car Game**
+
+> **"Drive Fast. Score Higher!"**
+
+🚘 An endless runner where you drive a car through obstacles and pick up glowing coins.
+
+- 🚗 Smooth car controls
+- 💥 Dodge barriers & collect points
+- 🎵 Sound effects & UI
+- 🎮 Addictive runner experience
+- 🌟 Great example of object pooling & level generation
+
+---
+
+### 🏹 3. **Archery Adventure – Semester Project**
+
+> **"Third-Person Fantasy World with Snow & Forest!"**
+
+🔥 A **fully developed archery game** with third-person mechanics, 3D environments, animations, and stylish UI.
+
+#### 👇 Features Breakdown:
+
+| 🎮 Gameplay        | 🌍 Environment       | 🔊 Audio           | 🧍‍♂️ Character         | 🧠 Systems          | 🖥️ UI / UX       |
+|--------------------|----------------------|---------------------|--------------------------|---------------------|-------------------|
+| Archery mechanics  | Forest + Snow Scenes | Background music     | Full animation controller| Object pooling      | Dynamic UI panels  |
+| Aiming + Shooting  | Menu scene included  | SFX (fire, hit, UI)  | Shooting & idle anims    | Target detection     | Score, health, pause |
+| Third-person cam   | Snow sliding areas   | Ambient sounds       | Run, walk, shoot blends  | Arrow raycasting     | Game over screen  |
+
+> 🎯 Two beautiful levels with effects:
+> - 🌲 **Forest Scene**
+> - ❄️ **Snow Scene** (Sledge + fog)
+
+> 💡 Built using:
+> - Unity New Input System
+> - Cinemachine
+> - TextMeshPro
+> - Stylized lighting and shadows
+
+---
+
+## 📥 How to Play / Install
+
+### ✅ Requirements:
+- Unity 2022.3.x LTS or newer
+- PC/Mac with Unity Hub
+- Git (optional)
