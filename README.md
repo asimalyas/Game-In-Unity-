@@ -7,7 +7,7 @@
 
 ---
 
-## 🌟 Overview
+## 🌟 Overview of the games
 
 Welcome to a **collection of 3 Unity mini-games** 🎯 developed with love, code, and creativity!
 
