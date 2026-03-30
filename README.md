@@ -71,7 +71,7 @@ Each project focuses on **different mechanics**, **design styles**, and **gamepl
 
 ---
 
-## 📥 How to Play / Install
+## 📥 How to Play and Install
 
 ### ✅ Requirements:
 - Unity 2022.3.x LTS or newer
